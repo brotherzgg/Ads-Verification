@@ -171,3 +171,4 @@ castify.ai, 1295184, RESELLER
 rubiconproject.com, 25336, RESELLER, 0bfd66d529a55807
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 improvedigital.com, 2525, RESELLER
+lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
