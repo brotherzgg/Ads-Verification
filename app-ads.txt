@@ -179,3 +179,5 @@ inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
 media.net, 8cu813e2h, RESELLER
 smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
 contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
+appnexus.com, 16244, RESELLER
+appnexus.com, 1354, RESELLER
