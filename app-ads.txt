@@ -242,3 +242,5 @@ undertone.com, 4108, RESELLER
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+app-stock.com, 384491, RESELLER
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
