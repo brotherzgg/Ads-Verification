@@ -301,3 +301,7 @@ xandr.com, 13293, RESELLER, f5ab79cb980f11d1
 sharethrough.com, FTVCT81v, RESELLER
 contextweb.com, 563605, RESELLER, 89ff185a4c4e857c
 pubnative.net, 1007262, RESELLER, d641df8625486a7b
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+lacunads.com, LCb555b3bc8667a09a, RESELLER
