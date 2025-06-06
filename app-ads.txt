@@ -309,3 +309,6 @@ lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 advertising.com, 82632, RESELLER
 taurusx.com, 80635, RESELLER
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+xandr.com, 16546, RESELLER
