@@ -313,3 +313,7 @@ rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
 xandr.com, 16546, RESELLER
 copper6.com, 766114, RESELLER
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2534, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
