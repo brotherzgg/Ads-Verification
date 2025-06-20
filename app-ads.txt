@@ -319,3 +319,4 @@ video.unrulymedia.com, 389957698, RESELLER
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 zmaticoo.com, 5135063, RESELLER
 bidmachine.io, 113, RESELLER
+improvedigital.com, 2609, RESELLER
